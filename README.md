@@ -1,4 +1,4 @@
-# HTML Anonymizer
+# HTML Anonymiser
 
 A lightweight Python tool that strips visible text from HTML files and replaces it with placeholders, while preserving the entire document structure, attributes, CSS, and Scripts.
 
@@ -6,8 +6,8 @@ A lightweight Python tool that strips visible text from HTML files and replaces 
 
 **Useful for:**
 * **Wireframing:** Instantly turning a finished website back into a layout template.
-* **Privacy:** Sanitizing HTML pages containing sensitive data before sharing them for debugging or analysis.
-* **Design Analysis:** Visualizing the structure and weight of a page without being distracted by the content.
+* **Privacy:** Sanitising HTML pages containing sensitive data before sharing them for debugging or analysis.
+* **Design Analysis:** Visualising the structure and weight of a page without being distracted by the content.
 
 ## Features
 
@@ -20,8 +20,8 @@ A lightweight Python tool that strips visible text from HTML files and replaces 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/html-anonymizer.git
-   cd html-anonymizer
+   git clone https://github.com/your-username/html-anonymiser.git
+   cd html-anonymiser
    ```
 
 2. Install the required dependencies:
